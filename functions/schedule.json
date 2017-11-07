@@ -1,0 +1,366 @@
+{
+    "schedule": [{
+            "dateString": "July 4",
+            "status": "Arrive333",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 5",
+            "status": "Rest",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 6",
+            "locality": "newark",
+            "localityPretty": "Newark",
+            "with": ["Newfield"],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 7",
+            "locality": "newark",
+            "localityPretty": "Newark",
+            "with": ["Newfield"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 8",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 9",
+            "locality": "wilmington",
+            "localityPretty": "Wilmington",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "July 10",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 11",
+            "locality": "detroit",
+            "localityPretty": "Detroit",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 12",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 13",
+            "locality": "sault_ste_marie",
+            "localityPretty": "Sault Ste. Marie",
+            "with": ["Barrie"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 14",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 15",
+            "locality": "hancock",
+            "localityPretty": "Hancock",
+            "with": ["Chatham"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 16",
+            "locality": "hancock",
+            "localityPretty": "Hancock",
+            "with": ["Chatham"],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "July 17",
+            "status": "Rest",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 18",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 19",
+            "locality": "marengo",
+            "localityPretty": "Marengo",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 20",
+            "locality": "duluth",
+            "localityPretty": "Duluth",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 21",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 22",
+            "locality": "minnetonka",
+            "localityPretty": "Minnetonka",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 23",
+            "locality": "delano",
+            "localityPretty": "Delano",
+            "with": [],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "July 24",
+            "locality": "delano",
+            "localityPretty": "Delano",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 25",
+            "status": "Rest",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 26",
+            "status": "Rest",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 27",
+            "locality": "kingston",
+            "localityPretty": "Kingston",
+            "with": ["New York Mills"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 28",
+            "status": "Travel",
+            "locality": "new_york_mills",
+            "comment": "via New York Mills",
+            "isSunday": false
+        },
+        {
+            "dateString": "July 29",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden",
+            "with": ["Aberdeen", "Gackle"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "July 30",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden",
+            "with": ["Aberdeen", "Gackle"],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "July 31",
+            "status": "Travel",
+            "locality": "aberdeen",
+            "comment": "via Aberdeen",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 1",
+            "locality": "spearfish",
+            "localityPretty": "Spearfish",
+            "with": ["Watford City"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 2",
+            "locality": "moorcroft",
+            "localityPretty": "Moorcroft",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 3",
+            "locality": "sheridan",
+            "localityPretty": "Sheridan",
+            "with": ["Colorado"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 4",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 5",
+            "status": "Rest",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 6",
+            "locality": "flathead_valley",
+            "localityPretty": "Kalispell",
+            "with": [],
+            "AM": true,
+            "PM": false,
+            "comment": "Annual Business Meeting @ 2:00 PM",
+            "isSunday": true
+        },
+        {
+            "dateString": "August 7",
+            "locality": "flathead_valley",
+            "localityPretty": "Kalispell",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 8",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 9",
+            "locality": "davenport",
+            "localityPretty": "Davenport",
+            "with": ["Tri‐Cities", "Summerland"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 10",
+            "status": "Travel",
+            "locality": "tricities",
+            "comment": "via Tri‐Cities",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 11",
+            "locality": "woodland",
+            "localityPretty": "Woodland",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 12",
+            "locality": "brush_prairie",
+            "localityPretty": "Brush Prairie",
+            "with": ["Vanderhoof"],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 13",
+            "locality": "brush_prairie",
+            "localityPretty": "Brush Prairie",
+            "with": ["Vanderhoof"],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "August 14",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 15",
+            "locality": "palmer",
+            "localityPretty": "Alaska",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 16",
+            "status": "Travel",
+            "isSunday": false
+        },
+        {
+            "dateString": "August 17",
+            "locality": "yacolt",
+            "localityPretty": "Yacolt",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 18",
+            "locality": "heisson",
+            "localityPretty": "Heisson",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 19",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "August 20",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville",
+            "with": [],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        }
+    ]
+}
