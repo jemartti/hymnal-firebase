@@ -82,7 +82,7 @@
             "missionaries": "David, Steve, and Lason",
             "with": [],
             "AM": true,
-            "PM": false,
+            "PM": true,
             "isSunday": true
         },
 
@@ -270,11 +270,12 @@
             "isSunday": false
         },
         {
-            "dateString": "April 1 (Easter)",
+            "dateString": "April 1",
             "locality": "woodland",
             "localityPretty": "Woodland, WA",
             "missionaries": "Bill and Lorin",
             "with": [],
+            "comment": "Easter",
             "AM": true,
             "PM": true,
             "isSunday": true
@@ -300,11 +301,12 @@
             "isSunday": false
         },
         {
-            "dateString": "April 1 (Easter)",
+            "dateString": "April 1",
             "locality": "brush_prairie",
             "localityPretty": "Brush Prairie, WA",
             "missionaries": "Steve and Marty",
             "with": [],
+            "comment": "Easter",
             "AM": true,
             "PM": true,
             "isSunday": true
@@ -330,11 +332,12 @@
             "isSunday": false
         },
         {
-            "dateString": "April 1 (Easter)",
+            "dateString": "April 1",
             "locality": "spearfish",
             "localityPretty": "Spearfish, SD",
             "missionaries": "Randy and Tony",
             "with": [],
+            "comment": "Easter",
             "AM": true,
             "PM": true,
             "isSunday": true
@@ -360,11 +363,12 @@
             "isSunday": false
         },
         {
-            "dateString": "April 1 (Easter)",
+            "dateString": "April 1",
             "locality": "lake_norden",
             "localityPretty": "Lake Norden, SD",
             "missionaries": "Ron and Ryan",
             "with": [],
+            "comment": "Easter",
             "AM": true,
             "PM": true,
             "isSunday": true
@@ -390,11 +394,12 @@
             "isSunday": false
         },
         {
-            "dateString": "April 1 (Easter)",
+            "dateString": "April 1",
             "locality": "duluth",
             "localityPretty": "Duluth, MN",
             "missionaries": "Don and Daryl",
             "with": [],
+            "comment": "Easter",
             "AM": true,
             "PM": true,
             "isSunday": true
@@ -420,11 +425,12 @@
             "isSunday": false
         },
         {
-            "dateString": "April 1 (Easter)",
+            "dateString": "April 1",
             "locality": "newark",
             "localityPretty": "Newark, DE",
             "missionaries": "Lason and Jeff",
             "with": [],
+            "comment": "Easter",
             "AM": true,
             "PM": true,
             "isSunday": true
@@ -674,36 +680,6 @@
         },
 
         {
-            "dateString": "April 13",
-            "locality": "lewisville",
-            "localityPretty": "Lewisville, WA",
-            "missionaries": "Don and Daryl",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "April 14",
-            "locality": "lewisville",
-            "localityPretty": "Lewisville, WA",
-            "missionaries": "Don and Daryl",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "April 15",
-            "locality": "lewisville",
-            "localityPretty": "Lewisville, WA",
-            "missionaries": "Don and Daryl",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": true
-        },
-        {
             "dateString": "April 12",
             "locality": "moorcroft",
             "localityPretty": "Moorcroft, WY",
@@ -712,8 +688,7 @@
             "AM": false,
             "PM": true,
             "isSunday": false
-        },
-        {
+        }, {
             "dateString": "April 13",
             "locality": "moorcroft",
             "localityPretty": "Moorcroft, WY",
@@ -722,8 +697,7 @@
             "AM": true,
             "PM": true,
             "isSunday": false
-        },
-        {
+        }, {
             "dateString": "April 14",
             "locality": "moorcroft",
             "localityPretty": "Moorcroft, WY",
@@ -732,8 +706,7 @@
             "AM": true,
             "PM": true,
             "isSunday": false
-        },
-        {
+        }, {
             "dateString": "April 15",
             "locality": "moorcroft",
             "localityPretty": "Moorcroft, WY",
@@ -741,6 +714,36 @@
             "with": [],
             "AM": true,
             "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 13",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville, WA",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 14",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville, WA",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 15",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville, WA",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
             "isSunday": true
         },
         {
