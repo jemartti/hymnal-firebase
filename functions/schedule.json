@@ -1,153 +1,117 @@
 {
     "schedule": [{
-            "dateString": "September 23",
-            "locality": "summerland",
-            "localityPretty": "Summerland, BC",
-            "missionaries": "Bill and Marty",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": true
+            "dateString": "TBD",
+            "status": "Chatham",
+            "comment": "Ron and Randy",
+            "isSunday": false
         },
         {
-            "dateString": "September 30",
+            "dateString": "February 3",
             "locality": "barrie",
             "localityPretty": "Barrie, ON",
-            "missionaries": "Ron and Randy",
+            "missionaries": "Bill and Lorin",
             "with": [],
             "AM": true,
             "PM": true,
             "isSunday": false
         },
         {
-            "dateString": "September 31",
+            "dateString": "February 4",
             "locality": "barrie",
             "localityPretty": "Barrie, ON",
-            "missionaries": "Ron and Randy",
+            "missionaries": "Bill and Lorin",
             "with": [],
             "AM": true,
             "PM": true,
             "isSunday": true
         },
         {
-            "dateString": "October 7",
-            "locality": "new_york_mills",
-            "localityPretty": "New York Mills, MN",
-            "missionaries": "David and Lorin",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "October 8",
-            "locality": "new_york_mills",
-            "localityPretty": "New York Mills, MN",
-            "missionaries": "David and Lorin",
-            "with": [],
-            "AM": true,
-            "PM": false,
-            "isSunday": true
-        },
-        {
-            "dateString": "October 13",
-            "locality": "vanderhoof",
-            "localityPretty": "Vanderhoof, BC",
-            "missionaries": "Steve and Ryan",
-            "with": [],
-            "AM": false,
-            "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "October 14",
-            "locality": "vanderhoof",
-            "localityPretty": "Vanderhoof, BC",
-            "missionaries": "Steve and Ryan",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "October 15",
-            "locality": "vanderhoof",
-            "localityPretty": "Vanderhoof, BC",
-            "missionaries": "Steve and Ryan",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": true
-        },
-        {
-            "dateString": "October 21",
-            "locality": "aberdeen",
-            "localityPretty": "Aberdeen, SD",
-            "missionaries": "Max and Jeff",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "October 22",
-            "locality": "aberdeen",
-            "localityPretty": "Aberdeen, SD",
-            "missionaries": "Max and Jeff",
-            "with": [],
-            "AM": true,
-            "PM": false,
-            "isSunday": true
-        },
-        {
-            "dateString": "October 28",
+            "dateString": "February 10",
             "locality": "tricities",
             "localityPretty": "Tri-Cities, WA",
-            "missionaries": "Don and Lason",
+            "missionaries": "Ryan and Jeff",
             "with": [],
             "AM": true,
             "PM": true,
             "isSunday": false
         },
         {
-            "dateString": "October 29",
+            "dateString": "February 11",
             "locality": "tricities",
             "localityPretty": "Tri-Cities, WA",
-            "missionaries": "Don and Lason",
+            "missionaries": "Ryan and Jeff",
             "with": [],
             "AM": true,
             "PM": false,
             "isSunday": true
         },
         {
-            "dateString": "December 22",
-            "status": "West Coast",
-            "comment": "2017 United Christmas Meetings",
+            "dateString": "February 10",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Don and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
             "isSunday": false
-        },
-        {
-            "dateString": "December 23",
-            "status": "West Coast",
-            "comment": "2017 United Christmas Meetings",
-            "isSunday": false
-        },
-        {
-            "dateString": "December 24",
-            "status": "West Coast",
-            "comment": "2017 United Christmas Meetings",
+        }, {
+            "dateString": "February 11",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Don and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
             "isSunday": true
         },
         {
-            "dateString": "December 25",
-            "status": "West Coast",
-            "comment": "2017 United Christmas Meetings",
+            "dateString": "February 24",
+            "locality": "new_york_mills",
+            "localityPretty": "New York Mills, MN",
+            "missionaries": "David, Steve, and Lason",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        }, {
+            "dateString": "February 25",
+            "locality": "new_york_mills",
+            "localityPretty": "New York Mills, MN",
+            "missionaries": "David, Steve, and Lason",
+            "with": [],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 16",
+            "locality": "minnetonka",
+            "localityPretty": "Minnetonka, MN",
+            "missionaries": "David and Ron",
+            "with": [],
+            "AM": true,
+            "PM": true,
             "isSunday": false
         },
         {
-            "dateString": "December 26",
-            "status": "West Coast",
-            "comment": "2017 United Christmas Meetings",
+            "dateString": "March 17",
+            "locality": "minnetonka",
+            "localityPretty": "Minnetonka, MN",
+            "missionaries": "David and Ron",
+            "with": [],
+            "AM": true,
+            "PM": true,
             "isSunday": false
+        },
+        {
+            "dateString": "March 18",
+            "locality": "minnetonka",
+            "localityPretty": "Minnetonka, MN",
+            "missionaries": "David and Ron",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
         }
     ]
 }
