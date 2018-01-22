@@ -1,8 +1,10 @@
 {
     "schedule": [{
             "dateString": "TBD",
-            "status": "Chatham",
-            "comment": "Ron and Randy",
+            "locality": "chatham",
+            "localityPretty": "Chatham, MI",
+            "missionaries": "Ron and Randy",
+            "with": [],
             "isSunday": false
         },
         {
@@ -83,6 +85,7 @@
             "PM": false,
             "isSunday": true
         },
+
         {
             "dateString": "March 16",
             "locality": "minnetonka",
@@ -111,6 +114,839 @@
             "with": [],
             "AM": true,
             "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "March 23",
+            "locality": "davenport",
+            "localityPretty": "Davenport, WA",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 24",
+            "locality": "davenport",
+            "localityPretty": "Davenport, WA",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 25",
+            "locality": "davenport",
+            "localityPretty": "Davenport, WA",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 23",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 24",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 25",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 23",
+            "locality": "kingston",
+            "localityPretty": "Kingston, MN",
+            "missionaries": "Max and Randy",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 24",
+            "locality": "kingston",
+            "localityPretty": "Kingston, MN",
+            "missionaries": "Max and Randy",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 25",
+            "locality": "kingston",
+            "localityPretty": "Kingston, MN",
+            "missionaries": "Max and Randy",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 23",
+            "locality": "detroit",
+            "localityPretty": "Detroit, MI",
+            "missionaries": "Lason and Ryan",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 24",
+            "locality": "detroit",
+            "localityPretty": "Detroit, MI",
+            "missionaries": "Lason and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 25",
+            "locality": "detroit",
+            "localityPretty": "Detroit, MI",
+            "missionaries": "Lason and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "March 27",
+            "locality": "summerland",
+            "localityPretty": "Summerland, BC",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+
+        {
+            "dateString": "March 30",
+            "locality": "woodland",
+            "localityPretty": "Woodland, WA",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 31",
+            "locality": "woodland",
+            "localityPretty": "Woodland, WA",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 1 (Easter)",
+            "locality": "woodland",
+            "localityPretty": "Woodland, WA",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 30",
+            "locality": "brush_prairie",
+            "localityPretty": "Brush Prairie, WA",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 31",
+            "locality": "brush_prairie",
+            "localityPretty": "Brush Prairie, WA",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 1 (Easter)",
+            "locality": "brush_prairie",
+            "localityPretty": "Brush Prairie, WA",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 30",
+            "locality": "spearfish",
+            "localityPretty": "Spearfish, SD",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 31",
+            "locality": "spearfish",
+            "localityPretty": "Spearfish, SD",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 1 (Easter)",
+            "locality": "spearfish",
+            "localityPretty": "Spearfish, SD",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 30",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 31",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 1 (Easter)",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 30",
+            "locality": "duluth",
+            "localityPretty": "Duluth, MN",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 31",
+            "locality": "duluth",
+            "localityPretty": "Duluth, MN",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 1 (Easter)",
+            "locality": "duluth",
+            "localityPretty": "Duluth, MN",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "March 30",
+            "locality": "newark",
+            "localityPretty": "Newark, DE",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "March 31",
+            "locality": "newark",
+            "localityPretty": "Newark, DE",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 1 (Easter)",
+            "locality": "newark",
+            "localityPretty": "Newark, DE",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "April 2",
+            "locality": "aberdeen",
+            "localityPretty": "Aberdeen, SD",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 3",
+            "locality": "aberdeen",
+            "localityPretty": "Aberdeen, SD",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 3",
+            "locality": "watford_city",
+            "localityPretty": "Watford City, ND",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 3",
+            "locality": "new_york_mills",
+            "localityPretty": "New York Mills, MN",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 4",
+            "locality": "new_york_mills",
+            "localityPretty": "New York Mills, MN",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 4",
+            "locality": "gackle",
+            "localityPretty": "Gackle, ND",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 4",
+            "locality": "barrie",
+            "localityPretty": "Barrie, ON",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 5",
+            "locality": "barrie",
+            "localityPretty": "Barrie, ON",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+
+        {
+            "dateString": "April 6",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 7",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 8",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Steve and Marty",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 6",
+            "locality": "sheridan",
+            "localityPretty": "Sheridan, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 7",
+            "locality": "sheridan",
+            "localityPretty": "Sheridan, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 8",
+            "locality": "sheridan",
+            "localityPretty": "Sheridan, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 6",
+            "locality": "delano",
+            "localityPretty": "Delano, MN",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 7",
+            "locality": "delano",
+            "localityPretty": "Delano, MN",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 8",
+            "locality": "delano",
+            "localityPretty": "Delano, MN",
+            "missionaries": "Ron and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 6",
+            "locality": "marengo",
+            "localityPretty": "Marengo, WI",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 7",
+            "locality": "marengo",
+            "localityPretty": "Marengo, WI",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 8",
+            "locality": "marengo",
+            "localityPretty": "Marengo, WI",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 6",
+            "locality": "sault_ste_marie",
+            "localityPretty": "Sault Ste. Marie, ON",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 7",
+            "locality": "sault_ste_marie",
+            "localityPretty": "Sault Ste. Marie, ON",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 8",
+            "locality": "sault_ste_marie",
+            "localityPretty": "Sault Ste. Marie, ON",
+            "missionaries": "Lason and Jeff",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "April 10",
+            "locality": "colorado",
+            "localityPretty": "Colorado",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+
+        {
+            "dateString": "April 13",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville, WA",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 14",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville, WA",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 15",
+            "locality": "lewisville",
+            "localityPretty": "Lewisville, WA",
+            "missionaries": "Don and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 12",
+            "locality": "moorcroft",
+            "localityPretty": "Moorcroft, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 13",
+            "locality": "moorcroft",
+            "localityPretty": "Moorcroft, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 14",
+            "locality": "moorcroft",
+            "localityPretty": "Moorcroft, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 15",
+            "locality": "moorcroft",
+            "localityPretty": "Moorcroft, WY",
+            "missionaries": "Randy and Tony",
+            "with": [],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 13",
+            "locality": "wilmington",
+            "localityPretty": "Wilmington, NC",
+            "missionaries": "Steve and Ryan",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 14",
+            "locality": "wilmington",
+            "localityPretty": "Wilmington, NC",
+            "missionaries": "Steve and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 15",
+            "locality": "wilmington",
+            "localityPretty": "Wilmington, NC",
+            "missionaries": "Steve and Ryan",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "April 20",
+            "locality": "yacolt",
+            "localityPretty": "Yacolt, WA",
+            "missionaries": "Ron and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 21",
+            "locality": "yacolt",
+            "localityPretty": "Yacolt, WA",
+            "missionaries": "Ron and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 22",
+            "locality": "yacolt",
+            "localityPretty": "Yacolt, WA",
+            "missionaries": "Ron and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 20",
+            "locality": "hancock",
+            "localityPretty": "Hancock, MI",
+            "missionaries": "Don and Bill",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 21",
+            "locality": "hancock",
+            "localityPretty": "Hancock, MI",
+            "missionaries": "Don and Bill",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 22",
+            "locality": "hancock",
+            "localityPretty": "Hancock, MI",
+            "missionaries": "Don and Bill",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "April 24",
+            "locality": "tricities",
+            "localityPretty": "Tri‐Cities, WA",
+            "missionaries": "Ron and Lason",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 25",
+            "locality": "tricities",
+            "localityPretty": "Tri‐Cities, WA",
+            "missionaries": "Ron and Lason",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+
+        {
+            "dateString": "April 27",
+            "locality": "heisson",
+            "localityPretty": "Heisson, WA",
+            "missionaries": "Ron and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 28",
+            "locality": "heisson",
+            "localityPretty": "Heisson, WA",
+            "missionaries": "Ron and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 29",
+            "locality": "heisson",
+            "localityPretty": "Heisson, WA",
+            "missionaries": "Ron and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+        {
+            "dateString": "April 27",
+            "locality": "palmer",
+            "localityPretty": "Palmer, AK",
+            "missionaries": "Bill and Lason",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 28",
+            "locality": "palmer",
+            "localityPretty": "Palmer, AK",
+            "missionaries": "Bill and Lason",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "April 29",
+            "locality": "palmer",
+            "localityPretty": "Palmer, AK",
+            "missionaries": "Bill and Lason",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "June 21",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "comment": "2018 United St. Johns Meetings",
+            "with": [],
+            "isSunday": false
+        },
+        {
+            "dateString": "June 22",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "comment": "2018 United St. Johns Meetings",
+            "with": [],
+            "isSunday": false
+        },
+        {
+            "dateString": "June 23",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "comment": "2018 United St. Johns Meetings",
+            "with": [],
+            "isSunday": false
+        },
+        {
+            "dateString": "June 24",
+            "locality": "flathead_valley",
+            "localityPretty": "Flathead Valley, MT (Kalispell)",
+            "comment": "2018 United St. Johns Meetings",
+            "with": [],
             "isSunday": true
         }
     ]
