@@ -197,7 +197,7 @@
             "with": [],
             "AM": true,
             "PM": true,
-            "isSunday": false
+            "isSunday": true
         }, {
             "dateString": "September 3",
             "locality": "brush_prairie",
@@ -207,7 +207,7 @@
             "comment": "Labour Day",
             "AM": true,
             "PM": false,
-            "isSunday": true
+            "isSunday": false
         },
         {
             "dateString": "August 31",
@@ -235,7 +235,7 @@
             "with": [],
             "AM": true,
             "PM": true,
-            "isSunday": false
+            "isSunday": true
         }, {
             "dateString": "September 3",
             "locality": "heisson",
@@ -245,7 +245,7 @@
             "comment": "Labour Day",
             "AM": true,
             "PM": false,
-            "isSunday": true
+            "isSunday": false
         },
         {
             "dateString": "August 31",
@@ -273,7 +273,7 @@
             "with": [],
             "AM": true,
             "PM": true,
-            "isSunday": false
+            "isSunday": true
         }, {
             "dateString": "September 3",
             "locality": "lake_norden",
@@ -283,7 +283,7 @@
             "comment": "Labour Day",
             "AM": true,
             "PM": false,
-            "isSunday": true
+            "isSunday": false
         },
         {
             "dateString": "September 1",
@@ -302,7 +302,7 @@
             "with": [],
             "AM": true,
             "PM": true,
-            "isSunday": false
+            "isSunday": true
         }, {
             "dateString": "September 3",
             "locality": "sheridan",
@@ -312,7 +312,7 @@
             "comment": "Labour Day",
             "AM": true,
             "PM": true,
-            "isSunday": true
+            "isSunday": false
         },
         {
             "dateString": "September 1",
@@ -331,7 +331,7 @@
             "with": [],
             "AM": true,
             "PM": true,
-            "isSunday": false
+            "isSunday": true
         }, {
             "dateString": "September 3",
             "locality": "newark",
@@ -341,7 +341,7 @@
             "comment": "Labour Day",
             "AM": true,
             "PM": true,
-            "isSunday": true
+            "isSunday": false
         },
 
         {
