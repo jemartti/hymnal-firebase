@@ -1,27 +1,18 @@
 {
     "schedule": [{
-            "dateString": "October 5",
-            "locality": "vanderhoof",
-            "localityPretty": "Vanderhoof, BC",
-            "missionaries": "Ron and Don",
+            "dateString": "January 26",
+            "locality": "tricities",
+            "localityPretty": "Tri-Cities, WA",
+            "missionaries": "Ryan and Jeff",
             "with": [],
             "AM": false,
             "PM": true,
             "isSunday": false
         }, {
-            "dateString": "October 6",
-            "locality": "vanderhoof",
-            "localityPretty": "Vanderhoof, BC",
-            "missionaries": "Ron and Don",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        }, {
-            "dateString": "October 7",
-            "locality": "vanderhoof",
-            "localityPretty": "Vanderhoof, BC",
-            "missionaries": "Ron and Don",
+            "dateString": "January 27",
+            "locality": "tricities",
+            "localityPretty": "Tri-Cities, WA",
+            "missionaries": "Ryan and Jeff",
             "with": [],
             "AM": true,
             "PM": true,
@@ -29,31 +20,39 @@
         },
 
         {
-            "dateString": "October 19",
-            "locality": "wilmington",
-            "localityPretty": "Wilmington, NC",
-            "comment": "at Wrightsboro Baptist Church",
-            "missionaries": "Don and Tony",
+            "dateString": "January 26",
+            "locality": "summerland",
+            "localityPretty": "Summerland, BC",
+            "missionaries": "Steve and Tony",
+            "with": [],
+            "AM": false,
+            "PM": true,
+            "isSunday": false
+        }, {
+            "dateString": "January 27",
+            "locality": "summerland",
+            "localityPretty": "Summerland, BC",
+            "missionaries": "Steve and Tony",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "January 26",
+            "locality": "new_york_mills",
+            "localityPretty": "New York Mills, MN",
+            "missionaries": "David and Marty",
             "with": [],
             "AM": true,
             "PM": true,
             "isSunday": false
         }, {
-            "dateString": "October 20",
-            "locality": "wilmington",
-            "localityPretty": "Wilmington, NC",
-            "comment": "at Wrightsboro Baptist Church",
-            "missionaries": "Don and Tony",
-            "with": [],
-            "AM": true,
-            "PM": true,
-            "isSunday": false
-        }, {
-            "dateString": "October 21",
-            "locality": "wilmington",
-            "localityPretty": "Wilmington, NC",
-            "comment": "1:30pm at Wrightsboro Baptist Church",
-            "missionaries": "Don and Tony",
+            "dateString": "January 27",
+            "locality": "new_york_mills",
+            "localityPretty": "New York Mills, MN",
+            "missionaries": "David and Marty",
             "with": [],
             "AM": true,
             "PM": false,
@@ -61,53 +60,112 @@
         },
 
         {
-            "dateString": "December 21",
-            "locality": "newark",
-            "localityPretty": "Newark, DE",
-            "comment": "2018 Christmas Meetings",
+            "dateString": "February 2",
+            "locality": "aberdeen",
+            "localityPretty": "Aberdeen, SD",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        }, {
+            "dateString": "February 3",
+            "locality": "aberdeen",
+            "localityPretty": "Aberdeen, SD",
+            "missionaries": "Bill and Lorin",
+            "with": [],
+            "AM": true,
+            "PM": false,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "February 8",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Lason and Daryl",
             "with": [],
             "AM": false,
             "PM": true,
             "isSunday": false
+        }, {
+            "dateString": "February 9",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Lason and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        }, {
+            "dateString": "February 10",
+            "locality": "vanderhoof",
+            "localityPretty": "Vanderhoof, BC",
+            "missionaries": "Lason and Daryl",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
         },
+
         {
-            "dateString": "December 22",
-            "locality": "newark",
-            "localityPretty": "Newark, DE",
-            "comment": "2018 Christmas Meetings",
+            "dateString": "February 16",
+            "locality": "barrie",
+            "localityPretty": "Barrie, ON",
+            "missionaries": "Ron and Randy",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        }, {
+            "dateString": "February 17",
+            "locality": "barrie",
+            "localityPretty": "Barrie, ON",
+            "missionaries": "Ron and Randy",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": true
+        },
+
+        {
+            "dateString": "June 21",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "comment": "2019 St. John's Meetings",
             "with": [],
             "AM": true,
             "PM": true,
             "isSunday": false
         },
         {
-            "dateString": "December 23",
-            "locality": "newark",
-            "localityPretty": "Newark, DE",
-            "comment": "2018 Christmas Meetings",
+            "dateString": "June 22",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "comment": "2019 St. John's Meetings",
+            "with": [],
+            "AM": true,
+            "PM": true,
+            "isSunday": false
+        },
+        {
+            "dateString": "June 23",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "comment": "2019 St. John's Meetings",
             "with": [],
             "AM": true,
             "PM": true,
             "isSunday": true
         },
         {
-            "dateString": "December 24",
-            "locality": "newark",
-            "localityPretty": "Newark, DE",
-            "comment": "2018 Christmas Meetings",
+            "dateString": "June 24",
+            "locality": "lake_norden",
+            "localityPretty": "Lake Norden, SD",
+            "comment": "2019 St. John's Meetings",
             "with": [],
             "AM": true,
             "PM": true,
-            "isSunday": false
-        },
-        {
-            "dateString": "December 25",
-            "locality": "newark",
-            "localityPretty": "Newark, DE",
-            "comment": "2018 Christmas Meetings",
-            "with": [],
-            "AM": true,
-            "PM": false,
             "isSunday": false
         }
     ]
